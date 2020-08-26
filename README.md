@@ -1,2 +1,0 @@
-# CTFWriteups
-Some CTF writeups
