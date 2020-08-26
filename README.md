@@ -1,4 +1,7 @@
-#Some CTF WriteUPS ( various types )
+# Some CTF WriteUPS ( various types )
 
-#Subheader
+# Subheader
 Great Writeups
+
+## Local DEvelopement
+1. Dont do anything
