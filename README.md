@@ -1,1 +1,1 @@
-Some CTF WriteUPS
+Some CTF WriteUPS ( various types )
